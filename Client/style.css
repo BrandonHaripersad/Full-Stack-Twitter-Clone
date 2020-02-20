@@ -1,0 +1,21 @@
+header {
+	text-align: center;
+}
+.title {
+	text-align: center;
+}
+
+.tweet-form {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.loading {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.tweets {
+	width: 80%;
+	margin: 0 auto;
+}
